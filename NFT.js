@@ -41,6 +41,7 @@ mintNFT( "Krugermeier 2-2 Silver" , "Firearm","Yes", "Low-velocity pistol","10 r
 mintNFT("Hackl Leviathan","Firearm","No","Sniper Rifle","5 Rounds");
 
 listNFTs();
+getTotalSupply();
 
 
 
